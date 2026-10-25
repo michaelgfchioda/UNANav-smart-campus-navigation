@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<rect width="1200" height="400" fill="#FFFFFF"/>
+<g transform="translate(20,0)"><g><line x1="134.00" y1="236.00" x2="28.00" y2="236.00" stroke="#26468A" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="134.39" y1="228.86" x2="29.01" y2="217.40" stroke="#2B4D8D" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="135.54" y1="221.81" x2="32.02" y2="199.03" stroke="#305591" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="137.45" y1="214.93" x2="37.00" y2="181.08" stroke="#345C94" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="140.10" y1="208.29" x2="43.90" y2="163.78" stroke="#396398" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="143.45" y1="201.97" x2="52.62" y2="147.32" stroke="#3E6B9B" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="147.46" y1="196.06" x2="63.07" y2="131.91" stroke="#43729F" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="152.08" y1="190.61" x2="75.13" y2="117.72" stroke="#4879A2" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="157.27" y1="185.70" x2="88.65" y2="104.91" stroke="#4C7FA0" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="162.96" y1="181.37" x2="103.48" y2="93.64" stroke="#50839C" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="169.09" y1="177.69" x2="119.43" y2="84.04" stroke="#548897" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="175.57" y1="174.69" x2="136.34" y2="76.22" stroke="#578D93" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="182.34" y1="172.41" x2="153.99" y2="70.27" stroke="#5B928F" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="189.32" y1="170.87" x2="172.17" y2="66.27" stroke="#5F978A" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="196.43" y1="170.10" x2="190.69" y2="64.25" stroke="#639C86" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="203.57" y1="170.10" x2="209.31" y2="64.25" stroke="#67A180" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="210.68" y1="170.87" x2="227.83" y2="66.27" stroke="#6BA678" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="217.66" y1="172.41" x2="246.01" y2="70.27" stroke="#6FAB6F" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="224.43" y1="174.69" x2="263.66" y2="76.22" stroke="#73B067" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="230.91" y1="177.69" x2="280.57" y2="84.04" stroke="#76B65F" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="237.04" y1="181.37" x2="296.52" y2="93.64" stroke="#7ABB56" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="242.73" y1="185.70" x2="311.35" y2="104.91" stroke="#7EC04E" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="247.92" y1="190.61" x2="324.87" y2="117.72" stroke="#85C546" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="252.54" y1="196.06" x2="336.93" y2="131.91" stroke="#94C83C" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="256.55" y1="201.97" x2="347.38" y2="147.32" stroke="#A4CC32" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="259.90" y1="208.29" x2="356.10" y2="163.78" stroke="#B4D028" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="262.55" y1="214.93" x2="363.00" y2="181.08" stroke="#C3D31E" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="264.46" y1="221.81" x2="367.98" y2="199.03" stroke="#D3D714" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="265.61" y1="228.86" x2="370.99" y2="217.40" stroke="#E2DA0A" stroke-width="9.2" stroke-linecap="round"/>
+<line x1="266.00" y1="236.00" x2="372.00" y2="236.00" stroke="#F2DE00" stroke-width="9.2" stroke-linecap="round"/><path d="M 150,236
+      C 150,155.0 250,155.0 250,236
+      C 250,267.0 215.0,308 200,348
+      C 185.0,308 150,267.0 150,236
+      Z" fill="#1C2D6A"/>
+    <circle cx="200" cy="230" r="20.0" fill="#FFFFFF"/><path d="M 58,372 C 120,300 170,400 200,346"
+      fill="none" stroke="#B8940A" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 14"/>
+    <circle cx="58" cy="372" r="9" fill="none" stroke="#B8940A" stroke-width="4"/></g></g>
+<g transform="translate(430,0)">
+<text x="0" y="255" font-family="Poppins" font-weight="700" font-size="150" fill="#1C2D6A">UNA<tspan fill="#5E9A2F">Nav</tspan></text>
+<text x="4" y="300" font-family="Poppins" font-weight="500" font-size="27" letter-spacing="6" fill="#5B6580">NAVEGAÇÃO INTELIGENTE NO CAMPUS</text>
+</g>
+</svg>

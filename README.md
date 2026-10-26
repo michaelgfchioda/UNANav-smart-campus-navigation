@@ -1,5 +1,5 @@
 <!-- Versão em português -->
-> 🌐 *For the Portuguese version of this documentation, please see [README.en.md](README.en.md).*
+> 🌐 *For the English version of this documentation, please see [README.en.md](README.en.md).*
 <br/>
 
 <h1 align="center"> UNANav - Smart Campus Navigation </h1>
